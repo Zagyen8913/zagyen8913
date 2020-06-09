@@ -1,1 +1,3 @@
-// there're isn't any javascript here for now. soon zagyen will put javascript here.
+function fishy() {
+  document.getElementById("stupit").innerHTML = "you clicked the button?! GRRRRRRRRRRRRR";
+}
