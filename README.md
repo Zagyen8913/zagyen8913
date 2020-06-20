@@ -13,29 +13,4 @@ lol idk how to describe it otherwise
 okay this is enough. [go check out the website](zagyen8913.github.io)
 -------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 why are you still here?
