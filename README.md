@@ -11,6 +11,8 @@ lol idk how to describe it otherwise
 `assets`? why need `assets`?
 
 okay this is enough. [go check out the website](https://zagyen8913.github.io/)
+
+## why don't you go to the website eeeeee 
 -------------------
 
 why are you still here?
