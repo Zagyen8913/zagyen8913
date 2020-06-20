@@ -10,7 +10,7 @@ lol idk how to describe it otherwise
 
 `assets`? why need `assets`?
 
-okay this is enough. [go check out the website](https://zagyen8913.github.io)
+okay this is enough. [go check out the website](https://zagyen8913.github.io/)
 -------------------
 
 why are you still here?
